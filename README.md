@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
-███████╗██╗   ██╗██████╗  ██████╗ ██╗  ██╗
-╚══███╔╝╚██╗ ██╔╝██╔══██╗██╔═══██╗╚██╗██╔╝
-  ███╔╝  ╚████╔╝ ██████╔╝██║   ██║ ╚███╔╝ 
- ███╔╝    ╚██╔╝  ██╔══██╗██║   ██║ ██╔██╗ 
-███████╗   ██║   ██║  ██║╚██████╔╝██╔╝ ██╗
-╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+███╗   ███╗ █████╗ ███╗   ██╗ █████╗  ██████╗ ███████╗██████╗
+████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝ ██╔════╝██╔══██╗
+██╔████╔██║███████║██╔██╗ ██║███████║██║  ███╗█████╗  ██████╔╝
+██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║██║   ██║██╔══╝  ██╔══██╗
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║╚██████╔╝███████╗██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+                 MANAGER | VEXSTORE
 ```
 
 <h3>A feature-rich Discord bot paired with a sleek Next.js dashboard</h3>
@@ -32,10 +34,10 @@
 
 ## ✦ Overview
 
-ZyroX is a fully-featured Discord bot with a modern web dashboard for managing everything from antinuke to music. Built on `discord.py v2`, `FastAPI`, and `Next.js 14` with Tailwind CSS.
+MANAGER | VEXSTORE is a fully-featured Discord bot with a modern web dashboard for managing everything from antinuke to music. Built on `discord.py v2`, `FastAPI`, and `Next.js 14` with Tailwind CSS.
 
 ```
-ZyroX-CV2-With-Dashboard/
+MANAGER | VEXSTORE-With-Dashboard/
 ├── 🤖  bot/                   Python Discord bot + FastAPI backend
 │   ├── api/                   Dashboard REST API (FastAPI)
 │   ├── cogs/                  All bot features (commands, events, antinuke, automod…)
@@ -148,8 +150,8 @@ ZyroX-CV2-With-Dashboard/
 **1 — Clone the repo**
 
 ```bash
-git clone https://github.com/RayExo/ZyroX-CV2-With-Dashboard
-cd ZyroX-CV2-With-Dashboard/bot
+git clone https://github.com/gangfreefireboy-svg/Manager-Bot
+cd Manager-Bot
 ```
 
 **2 — Install dependencies**
@@ -173,7 +175,7 @@ Copy `.env.example` to `.env` and fill in the values:
 ```env
 # ── Core ──────────────────────────────────────────────────────────
 TOKEN              = your_discord_bot_token
-brand_name         = 'ZyroX'
+brand_name         = 'Manager-Bot'
 
 # ── Owner IDs (comma-separated) ───────────────────────────────────
 OWNER_IDS          = 870179991462236170,767979794411028491
